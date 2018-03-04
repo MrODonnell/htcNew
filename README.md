@@ -5,14 +5,15 @@ in Laconia, New Hampshire
 
 ## this is a checklist of things to do
 - [x] create checklist
-- [ ] create markdown cheatsheet
-- [ ] create vi cheatsheet
-- [] determine if you need a space between \[ and \] when creating a check list
-- [ ] create git cheatsheet
-- [ ] create a readme
-- [ ] become comfortable using add and commit
-- [ ] create a remote repository
-- [ ] push to remote
+- [x] create markdown cheatsheet
+- [x] create vi cheatsheet
+- [x] determine if you need a space between \[ and \] when creating a check list
+- [x] create git cheatsheet
+- [x] create a readme
+- [x] become comfortable using add and commit
+- [x] create a remote repository
+- [x] push to remote
+- [x] move all notes to README.md file
 
 
 # Commands for use on the command line for git
@@ -34,13 +35,16 @@ in Laconia, New Hampshire
 
 # use one \# to create a top-level header
 
-# use two \# \# for the next down header
+## use two \# \# for the next down header
 
 ###### I think six is the smallest header
 
 * an astrisk will display as a list item
 	* indented will show as a sub list
 	* another list item
+		* some more
+		- hello
+
 
 ** not sure what, if anything two \* \* will do
 
