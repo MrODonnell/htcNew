@@ -14,7 +14,8 @@ in Laconia, New Hampshire
 - [x] create a remote repository
 - [x] push to remote
 - [x] move all notes to README.md file
-
+-[ ] try this
+- [ ] try this also
 
 # Commands for use on the command line for git
 
